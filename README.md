@@ -1,260 +1,336 @@
-<!-- ======================= ANIMATED HEADER ======================= -->
+<!-- ========================================================= -->
+<!--                    HARIPRIYAH PROFILE                     -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1200&color=B57CFF&center=true&vCenter=true&width=850&height=70&lines=Haripriyah+SL+%E2%9C%A8;AI%2FML+Enthusiast+%F0%9F%A4%96;Python+%7C+Data+%7C+Machine+Learning;Building+Ideas+Into+Solutions+%F0%9F%9A%80"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%2FML-Explorer-B57CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-Learner-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data-Driven-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/1st%20Place-EdgeNova-FFD700?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🧬 `whoami`
+
+```text
+> initializing profile...
+
+Name        : Haripriyah SL
+Role        : AI/ML Enthusiast
+Focus       : Machine Learning + Data + Software
+Currently   : Learning • Building • Experimenting
+Mindset     : Curiosity → Code → Create
+
+> system ready ✓
+```
+
+I'm an aspiring **AI/ML developer** who enjoys learning through
+hands-on projects and exploring how technology can solve
+real-world problems.
+
+My current interests include **Artificial Intelligence,
+Machine Learning, Python, Data Analysis, SQL, Web Development,
+Computer Vision, Edge AI and Generative AI**.
+
+> `I don't just want to learn technology — I want to build with it.`
+
+---
+
+# ✦ What I'm Exploring
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+Exploring intelligent systems, machine learning concepts and
+AI-powered applications.
+
+</td>
+
+<td width="50%">
+
+### 📊 Data & Analytics
+
+Learning how to work with data, identify patterns and turn
+data into useful insights.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐍 Python
+
+Using Python as a foundation for data analysis, machine
+learning and application development.
+
+</td>
+
+<td width="50%">
+
+### 🌐 Development
+
+Exploring web technologies and learning how frontend,
+backend and AI systems can work together.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ My Toolkit
+
+### Programming
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Haripriyah%20SL&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark"/>
+
 </p>
 
-<!-- ======================= TYPING ANIMATION ======================= -->
+### AI / Data
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Aspiring+ML+Developer+%F0%9F%A7%A0;Python+%26+Data+Learner+%F0%9F%90%8D;Hackathon+Winner+%F0%9F%8F%86;Building+Ideas+into+Real+Projects+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving+%E2%9C%A8"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-B57CFF?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 </p>
 
-<!-- ======================= PROFILE VIEWS ======================= -->
+### Web & Databases
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hs3468-cyber&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flask,mysql,sqlite&theme=dark"/>
+
+</p>
+
+### Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark"/>
+
 </p>
 
 ---
 
-# 👋 Hey, I'm Haripriyah!
+# 🚀 Things I've Built
 
-### `AI/ML Enthusiast` • `Developer` • `Problem Solver`
+<div align="center">
 
-I'm a student and aspiring AI/ML developer who enjoys exploring
-technology by **building practical projects**.
+### ♻️ ReSource
 
-I'm particularly interested in **Machine Learning, Artificial
-Intelligence, Python, Data Analysis and software development**.
+`Predictive Circular Resource Intelligence Network`
 
-I believe in learning by doing — turning ideas into projects,
-experimenting with new technologies, and continuously improving.
+</div>
 
-> 💡 **Learn something. Build something. Make it better.**
+A sustainability-focused platform exploring intelligent
+resource matching, prediction and optimization.
 
----
-
-## 🧠 About Me
-
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🐍 Building with Python
-- 📊 Interested in Data Analysis & Visualization
-- 🗄️ Learning SQL & Database Systems
-- 🌐 Exploring Web Development
-- 🧩 Enjoy solving technical problems
-- 🚀 Participating in hackathons and ideathons
-- 🌱 Currently growing my skills through hands-on projects
+**Exploring:**  
+`AI` `Machine Learning` `Optimization` `Sustainability`
 
 ---
 
-# ⚡ Tech Stack
+<div align="center">
 
-### 🐍 Programming & Data
+### 🧬 ADAPT-AMR
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp&perline=8"/>
-</p>
+`Adaptive Antimicrobial Decision & Resistance Trajectory Engine`
 
-### 🤖 AI / ML
+</div>
 
-<p align="center">
+An AI-focused healthcare project exploring antimicrobial
+treatment pathways and resistance trajectories.
 
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-102230?style=for-the-badge&logo=googlebrain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-102230?style=for-the-badge&logo=databricks&logoColor=red"/>
-
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flask&perline=8"/>
-</p>
-
-### 🗄️ Databases & Data Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=8"/>
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQL-102230?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-102230?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-
-</p>
-
-### 🛠️ Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&perline=8"/>
-</p>
+**Exploring:**  
+`AI` `Machine Learning` `Healthcare` `AMR`
 
 ---
 
-# 🚀 Featured Projects
+<div align="center">
 
-## ♻️ ReSource
+### 🎓 College Companion
 
-### `Predictive Circular Resource Intelligence Network`
+A student-focused platform designed around academic
+management, planning and student utilities.
 
-An AI-driven sustainability platform designed to connect
-surplus resources with organizations that can use them,
-while exploring prediction, intelligent matching and
-optimization.
-
-**Focus:** AI • Machine Learning • Sustainability • Optimization
+**Exploring:**  
+`Web Development` `Database Systems` `Student Technology`
 
 ---
 
-## 🧬 ADAPT-AMR
+<div align="center">
 
-### `Adaptive Antimicrobial Decision & Resistance Trajectory Engine`
+### 🎨 Handmade Craft Store
 
-An AI-based healthcare system exploring antimicrobial
-treatment pathways and resistance trajectories to support
-data-driven decision making.
+A database-oriented application concept for managing
+products, customers, orders and business operations.
 
-**Focus:** AI • Machine Learning • Healthcare • AMR
-
----
-
-## 🎓 College Companion
-
-A student-focused academic management platform designed to
-bring academic information, planning and student utilities
-together in one place.
-
-**Focus:** Web Development • Database • Student Technology
+**Exploring:**  
+`DBMS` `SQL` `Application Development`
 
 ---
 
-## 🎨 Handmade Craft Store Management System
+# 🏆 Achievement
 
-A database-oriented project designed to manage products,
-customers, orders and operations for a handmade craft business.
-
-**Focus:** DBMS • SQL • Application Development
-
----
-
-# 🏆 Achievements & Events
+<div align="center">
 
 ## 🥇 1st Place — EdgeNova Hackathon
 
-Achieved **1st Place** in the **EdgeNova Hackathon**, building
-and presenting a solution through collaborative problem-solving,
-development and innovation.
+<img src="https://img.shields.io/badge/EDGE-NOVA%20HACKATHON-B57CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RESULT-1st%20PLACE-FFD700?style=for-the-badge"/>
 
-🏆 **Achievement:** 1st Place  
-🚀 **Event:** EdgeNova Hackathon
+</div>
 
----
-
-## 🌱 THALIR'26
-
-Participated in **THALIR'26**, a startup-focused ideathon
-centered around innovation and real-world problem solving.
+Participated in **EdgeNova Hackathon** and achieved **1st Place**
+through collaborative problem solving, development and
+innovation.
 
 ---
 
-## 🧬 MedVision'26
+# 🌱 Events & Innovation
 
-Participated in **MedVision'26** with **ADAPT-AMR**, a
-healthcare-focused AI project exploring antimicrobial resistance
-and intelligent decision support.
-
----
-
-# 📚 Currently Exploring
-
-<p align="center">
-
-🤖 Artificial Intelligence  
-&nbsp; • &nbsp;
-🧠 Machine Learning  
-&nbsp; • &nbsp;
-🐍 Python  
-
-<br>
-
-📊 Data Analysis  
-&nbsp; • &nbsp;
-🗄️ SQL & DBMS  
-&nbsp; • &nbsp;
-🌐 Web Development  
-
-<br>
-
-👁️ Computer Vision  
-&nbsp; • &nbsp;
-⚡ Edge AI  
-&nbsp; • &nbsp;
-✨ Generative AI
-
-</p>
+| Event | Experience |
+|---|---|
+| 🥇 **EdgeNova** | **1st Place — Hackathon** |
+| 🌱 **THALIR'26** | Startup / Ideathon |
+| 🧬 **MedVision'26** | Healthcare AI Ideathon |
 
 ---
 
-# 🎯 What I'm Working Towards
+# 🔬 Current Learning Lab
 
 ```text
-          LEARN
-            ↓
-       EXPERIMENT
-            ↓
-         BUILD
-            ↓
-         DEBUG
-            ↓
-        IMPROVE
-            ↓
-          REPEAT
-            ↺
+                    ┌──────────────────┐
+                    │   ARTIFICIAL     │
+                    │   INTELLIGENCE   │
+                    └────────┬─────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              ↓              ↓              ↓
+        ┌──────────┐   ┌──────────┐   ┌──────────┐
+        │   ML     │   │   DATA   │   │   GEN AI │
+        └────┬─────┘   └────┬─────┘   └────┬─────┘
+             │              │              │
+             └──────────────┼──────────────┘
+                            ↓
+                     ┌──────────────┐
+                     │   PROJECTS   │
+                     └──────┬───────┘
+                            ↓
+                     ┌──────────────┐
+                     │  REAL-WORLD  │
+                     │   SOLUTIONS  │
+                     └──────────────┘
 ```
 
-My goal is to keep strengthening my foundations in
-**AI/ML and software development** while building projects
-that solve meaningful real-world problems.
+### Currently exploring
+
+`Machine Learning` · `Python` · `Data Analysis` · `SQL`
+
+`Computer Vision` · `Generative AI` · `Edge AI` · `Web Development`
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hs3468-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hs3468-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B57CFF&icon_color=00C9A7&text_color=FFFFFF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hs3468-cyber&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hs3468-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B57CFF&text_color=FFFFFF"/>
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=hs3468-cyber&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🐍 My Contributions
+# 🔥 Coding Streak
 
-<p align="center">
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hs3468-cyber&theme=tokyonight&hide_border=true&background=0D1117&ring=B57CFF&fire=FF6B6B&currStreakLabel=00C9A7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/hs3468-cyber/hs3468-cyber/output/github-contribution-grid-snake.svg"/>
 
-</p>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 💡 My Development Loop
 
-<p align="center">
+<div align="center">
+
+```text
+       ┌──────────────┐
+       │    CURIOUS   │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    LEARN     │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    BUILD     │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    TEST      │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │   IMPROVE    │
+       └──────┬───────┘
+              │
+              └──────────────→ ↻
+```
+
+</div>
+
+---
+
+# 📌 What I Want To Build
+
+```text
+AI that is useful.
+        ↓
+Software that solves problems.
+        ↓
+Projects that create impact.
+        ↓
+Skills that keep growing.
+```
+
+I'm working towards becoming a stronger developer by combining
+**AI/ML knowledge with practical software development**.
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
 
 <a href="https://github.com/hs3468-cyber">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -268,26 +344,20 @@ that solve meaningful real-world problems.
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💭 A Little About My Journey
+<div align="center">
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=B57CFF&center=true&vCenter=true&width=650&lines=Keep+Learning+%E2%9C%A8;Keep+Building+%F0%9F%9A%80;Keep+Experimenting+%F0%9F%A7%A0;Keep+Growing+%F0%9F%8C%B1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=8BE9FD&center=true&vCenter=true&width=700&lines=Curious+about+AI+%F0%9F%A4%96;Learning+through+projects+%F0%9F%9A%80;Turning+ideas+into+solutions+%F0%9F%92%A1;One+project+at+a+time+%E2%9C%A8"/>
+<br><br>
 
-</p>
+### `✨ Learn • Build • Experiment • Grow ✨`
 
----
+<br>
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer"/>
 
-### ✨ Learn • Build • Experiment • Grow ✨
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</div>
